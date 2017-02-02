@@ -1,0 +1,50 @@
+@charset "UTF-8";
+body{
+    padding-top: 70px;
+    font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
+
+}
+.popup{
+    padding-top: 10px;
+}
+
+.navbar, .navbar-default {
+    font-weight: bold;
+    font-size: 140%;
+
+}
+#main {
+    width: 90%;
+    padding: 5px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    line-height: 2em;
+    font-size: 1.3em;
+    letter-spacing: 0.1em;
+
+
+}
+.row {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px 0px;
+    line-height: 2.5em;
+    font-size: 100%;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.image-fill {
+    width: 100%;
+}
+#wrapper {
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: cornsilk;
+}
+
